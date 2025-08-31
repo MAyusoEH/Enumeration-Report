@@ -3,7 +3,9 @@
 
 
 ## Funcionamiento:
-Permite crear contraseñas aleatorias con los parámetros seleccionados.
+Permite crear reportes rápidos de ejercicios de enumeración (pentesting).
+
+Tan fácil como ir rellenando campos, añadir máquinas, puertos, credenciales, etc, y exportar a JSON o HTML.
 
 
 ## Cómo usar:
